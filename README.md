@@ -1,1 +1,1 @@
-# Project-17
+# A Cycling game for Whitehat Jr.
